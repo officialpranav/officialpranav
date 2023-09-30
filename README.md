@@ -45,3 +45,5 @@ Some of my key areas of interest include:
 
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=nextdotjs)](https://nextjs.org/)
+
