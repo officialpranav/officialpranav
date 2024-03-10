@@ -1,5 +1,5 @@
 
-# Pranav Bommireddipalli's GitHub⚒️
+# Pranav Bommireddipalli's GitHub⚒
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/pranavbommi/">
