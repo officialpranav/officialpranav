@@ -13,14 +13,13 @@
   </a>  
 <div/>
   
-Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 2A term. 
+Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 2B term. 
 Some of my key areas of interest include:
 - ML/AI
 - 3D simulations and analysis
 - Automation
 - Aerospace
 
-  
 ## Languages
 
 [![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
