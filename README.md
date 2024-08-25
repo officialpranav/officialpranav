@@ -13,7 +13,7 @@
   </a>  
 <div/>
   
-Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 2B term. 
+Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 3A term. 
 Some of my key areas of interest include:
 - ML/AI
 - 3D simulations and analysis
