@@ -5,15 +5,12 @@
   <a href="https://www.linkedin.com/in/pranavbommi/">
     <img src="https://img.shields.io/badge/LinkedIn-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:pbommire@uwaterloo.ca">
-    <img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=microsoft outlook&logoColor=white" alt="Outlook Badge"/>
-  </a>  
   <a href="https://www.pranavbommi.com" target="_blank">
     <img src="https://img.shields.io/badge/My Portfolio-red?style=for-the-badge&logo=webmoney&logoColor=white" alt="Porfolio Badge"/>
   </a>  
 <div/>
   
-Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 3B term. 
+Hi there! I'm Pranav Bommireddipalli, and I'm studying Mechanical Engineering at the University of Waterloo, currently in my 4A term. 
 Some of my key areas of interest include:
 - ML/AI
 - 3D simulations and analysis
